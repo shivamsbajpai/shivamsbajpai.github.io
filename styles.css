@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background: url(./images/background_3.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #231515;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+.fb {
+  padding: 0.5rem 2rem;
+  background-color: #4267b2;
+  border: none;
+}
+#facebook_button {
+  color: whitesmoke;
+  text-decoration: none;
+}
